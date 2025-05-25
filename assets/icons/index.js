@@ -46,6 +46,7 @@ import {
   faArrowsAltV,
   faBars,
   faBuilding,
+  faBookOpen,
   faCheckCircle,
   faChevronCircleDown,
   faChevronDown,
@@ -166,6 +167,7 @@ let icons = [
 
   // Regular Icons
   faStar,
+  faBookOpen,
 
   // Brands
   faAlipay,
