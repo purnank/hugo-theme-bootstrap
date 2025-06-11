@@ -8,7 +8,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@fortawesome/free-regular-svg-icons": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
-    "@fullhuman/postcss-purgecss": "^4.1.3",
+    "@fullhuman/postcss-purgecss": "^6",
     "@popperjs/core": "^2.11.8",
     "algoliasearch": "^5.27.0",
     "autoprefixer": "^10.4.21",
